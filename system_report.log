@@ -1,0 +1,41 @@
+System Check - Wed Apr 16 16:51:29 WAT 2025
+Uptime:
+ 16:51:29 up 20:50,  1 user,  load average: 0.00, 0.00, 0.00
+Disk Space:
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         238G  111G  128G  47% /usr/lib/wsl/drivers
+/dev/sdc       1007G  3.1G  953G   1% /
+none            1.9G   88K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.4M  1.9G   1% /init
+none            1.9G  504K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             238G  111G  128G  47% /mnt/c
+===========================================================
+			System Health Report
+===========================================================
+System Check - Wed Apr 16 16:53:10 WAT 2025
+Uptime:
+ 16:53:10 up 20:52,  1 user,  load average: 0.00, 0.00, 0.00
+Disk Space:
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         238G  111G  128G  47% /usr/lib/wsl/drivers
+/dev/sdc       1007G  3.1G  953G   1% /
+none            1.9G   88K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.4M  1.9G   1% /init
+none            1.9G  504K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             238G  111G  128G  47% /mnt/c
