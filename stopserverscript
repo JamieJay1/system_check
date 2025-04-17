@@ -1,0 +1,2 @@
+# !/bin/bash
+echo "$(date) this is a sample project to use git pull"
